@@ -48,6 +48,9 @@ function getPreset(iso, ev)
     if niso < 100 then
         niso = 100
     end
+    if niso > 25600 then
+        niso = 25600
+    end
     if ev == nil or ev < 0 then
         ev = 0
     end

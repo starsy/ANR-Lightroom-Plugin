@@ -1,16 +1,15 @@
 ANR-Lightroom-Plugin
 ====================
-----
+
 Auto Noise Reduction Plugin for Adobe Lightroom
 
+A plugin for Adobe Lightroom to automatically adjust photo's luminance noise reduction(NR) levels according to the shooting ISO setting and post-processing exposure level.
 
-A plugin for Adobe Lightroom to automatically adjust photo's luminance noise reduction levels according to the shooting ISO setting and post-processing exposure level.
-
-* When doing photo post-processing, usually it is necessary to apply different noise reduction levels according to each photo's ISO setting to achieve a quality balance between details and noises.  E.g. a picture shot with ISO 3200 need set luminance noise reduction levcel 60, while a ISO 400 picture may only need luminance noise reduction level 20. 
-* Adobe Lightroom is a great and most powerful digital photo post-processing software, however it has no such easy configuration that maps different ISO levels to luminance NR levels, so each photo's NR level has to be manually adjusted which becomes a boring and time-costing step.
+* When doing photo post-processing, usually it is necessary to apply different NR levels according to photo's ISO settings to achieve a quality balance between details and noises.  E.g. a picture shot with ISO 3200 may need set luminance NR levcel to 60, while a ISO 400 photo may only need luminance NR level 20. 
+* Adobe Lightroom is a great and powerful digital photo post-processing software, however it lacks of easy configuration that maps ISO levels to luminance NR levels, so each photo's NR level has to be manually adjusted which make it becomes a boring and time-costing step.
 * I wrote this plugin to make photographer's life easier, especially for those using Adobe Lightroom as their primary digital photo processor.
 
-P.S. There are two types of noise reduction: luminance NR and color NR. This plugin only adjust luminance NR levels as luminance NR has much more impact to the final effect.
+P.S. There are two types of NR: luminance NR and color NR. This plugin only adjust luminance NR levels as luminance NR usually has much higher impact to the final effect.
 
 Homepage
 ---------
@@ -32,8 +31,8 @@ License
 ---------
 MIT License
 
-
-* It would be **great** to send me a tweet/direct message on twitter or weibo when you find this plugin is helpful to you.
+----
+**It would be great to receive a tweet/direct message from you on twitter or weibo when you find this plugin is helpful.**
 
 Thanks,
 Yang Song

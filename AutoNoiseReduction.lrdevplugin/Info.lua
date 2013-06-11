@@ -13,7 +13,7 @@ return {
 	LrSdkVersion = 3.0,
 	LrSdkMinimumVersion = 1.3, -- minimum SDK version required by this plug-in
 
-	LrToolkitIdentifier = 'info.starsy.and',
+	LrToolkitIdentifier = 'github.starsy.and',
 
 	LrPluginName = LOC "$$$/AutoNoiseReduction/PluginName=Auto Noise Reduction",
 

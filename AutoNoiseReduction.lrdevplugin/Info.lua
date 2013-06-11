@@ -1,7 +1,7 @@
 --[[----------------------------------------------------------------------------
 Info.lua
 
-Copyright Yang Song. All rights reserved.
+Licensed under MIT license. Copyright by Yang Song.  Al
 
 Summary information for AutoNoiseReduction plug-in.
 

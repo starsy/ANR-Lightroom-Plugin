@@ -6,7 +6,7 @@ Auto Noise Reduction Plugin for Adobe Lightroom
 A plugin for Adobe Lightroom to automatically adjust photo's luminance noise reduction levels according to the shooting ISO setting and post-processing exposure level.
 
 * When doing photo post-processing, usually it is necessary to apply different noise reduction levels according to each photo's ISO setting to achieve a quality balance between details and noises.  E.g. a picture shot with ISO 3200 need set luminance noise reduction levcel 60, while a ISO 400 picture may only need luminance noise reduction level 20. 
-* Adobe Lightroom is a great and most powerful digital photo post-processing software, however it has no such easy configuration that maps different ISO levels to luminance NR levels, so each photo's NR level has to be manually adjusted which becomes a boring and time-costing step.
+* Adobe Lightroom is a great and most powerful photo post-processing software, however it has no such easy configuration that maps different ISO levels to luminance NR levels, so each photo's NR level has to be manually adjusted which becomes a boring and time-costing step.
 * I wrote this plugin to make photographer's life easier, especially for those using Adobe Lightroom as their primary digital photo processor.
 
 P.S. There are two types of noise reduction: luminance NR and color NR. This plugin only adjust luminance NR levels as luminance NR has much more impact to the final effect.

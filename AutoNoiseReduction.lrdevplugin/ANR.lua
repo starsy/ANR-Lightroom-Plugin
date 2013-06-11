@@ -41,11 +41,14 @@ local max_ls = 100 -- luminance smoothing(NR) for ISO 25600
 local ev_gain_ls = 2.5 -- for each +1 ev in exposure, how much luminance smoothing(NR) to adjust up
 
 function getPreset(iso, ev)
+    if iso == nil then
+        iso = "ISO 100"
+    end
     niso = tonumber(string.sub(iso, 5))
     if niso < 100 then
         niso = 100
     end
-    if ev < 0 then
+    if ev == nil or ev < 0 then
         ev = 0
     end
     ls = math.floor((max_ls - min_ls) / 8 * log2(niso / 100) + ev_gain_ls * ev + 0.5)

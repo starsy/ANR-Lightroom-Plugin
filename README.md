@@ -35,7 +35,7 @@ License
 MIT License
 
 ----
-**It would be great to receive a tweet/direct message from you on twitter or weibo when you find this plugin is helpful.**
+**It would be great to receive a tweet/direct message from you on twitter or weibo to let me know that you find this plugin is helpful. :)**
 
 Thanks,  
 Yang Song

@@ -26,6 +26,9 @@ Usage
 1. Select the photos you want to adjust NR levels in "Library" or "Develop" modules
 2. File menu -> Plugin Extras -> Auto Noise Reduction
 3. Or in "Library" module, Library menu -> Plugin Extras -> Auto Noise Reduction
+4. Still no idea? See the screenshot:
+![Screenshot](https://github.com/starsy/ANR-Lightroom-Plugin/raw/master/Usage.jpg "Usage screenshot")
+
      
 License
 ---------
@@ -39,3 +42,4 @@ Yang Song
 
 - http://twitter.com/songyang
 - http://weibo.com/starsy2
+

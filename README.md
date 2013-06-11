@@ -18,14 +18,14 @@ Homepage
 Installation
 ---------
 1. Check out or download this plugin
-2. Extract the downloaded zip/tgz file into some folder on your harddrive
+2. Extract the downloaded zip/tgz file into some folder on your hard drive
 3. In Adobe Lightroom, File menu -> Plugin Manager > Add -> Select [extract folder]\AutoNoiseReduction.lrdevplugin -> Done
 
 Usage
 ---------
 1. Select the photos you want to adjust NR levels in "Library" or "Develop" modules
 2. File menu -> Plugin Extras -> Auto Noise Reduction
-3. Or in "Library" module,      Library menu -> Plugin Extras -> Auto Noise Reduction
+3. Or in "Library" module, Library menu -> Plugin Extras -> Auto Noise Reduction
      
 License
 ---------
@@ -34,9 +34,8 @@ MIT License
 ----
 **It would be great to receive a tweet/direct message from you on twitter or weibo when you find this plugin is helpful.**
 
-Thanks,
+Thanks,  
 Yang Song
 
 - http://twitter.com/songyang
 - http://weibo.com/starsy2
-

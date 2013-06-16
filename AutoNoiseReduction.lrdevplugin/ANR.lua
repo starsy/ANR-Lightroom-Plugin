@@ -54,7 +54,7 @@ function getPreset(iso, ev)
     if ev == nil or ev < 0 then
         ev = 0
     end
-    ls = math.floor((max_ls - min_ls) / 8 * log2(niso / 100) + ev_gain_ls * ev + 0.5)
+    ls = math.floor(min_ls + (max_ls - min_ls) / 8 * log2(niso / 100) + ev_gain_ls * ev + 0.5)
     preset = app.addDevelopPresetForPlugin(_PLUGIN, iso, {LuminanceSmoothing = ls})
     return preset
 end
